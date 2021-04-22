@@ -1,3 +1,5 @@
+package code;
+
 public class ManageStudent {
     public Student[] addStudent() {
         Student[] students = new Student[3];
